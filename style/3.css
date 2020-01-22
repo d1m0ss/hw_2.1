@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(179, 24, 179, 0.158);
+}
+.header{
+    background-color: red;
+    width: 90%;
+    height: 15%;
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    right: 5%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.menu{
+    background-color: rgba(0, 0, 140, 0.600);
+    width: 10%;
+    height: 600px;
+    position: fixed;
+    left: 0%;
+    top: 10%;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.li{
+    position: relative;
+    left: -25px;
+    top: 50%;
+    font-size: 15px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.a{
+    color: white;
+}
+.spc{
+    background-color: pink;
+    width: 80%;
+    height: 85%;
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    border-radius: 5%;
+}
+.ol{
+    font-size: 30px;
+    position: relative;
+    left: 20%;
+    top: 10%;
+}
+.footer{
+    background-color: red;
+    width: 90%;
+    left: 5%;
+    right: 5%;
+    height: 15%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    position: absolute;
+    top: 100%;
+}
+.p{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 75%;
+    top: 50%;
+}
